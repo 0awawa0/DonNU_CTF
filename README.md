@@ -8,3 +8,5 @@ There are tasks from trainings we maintain at Donetsk National University, Donet
 
 * [12.09.2020 - Training 1](./2020_2021/Training_1)
 
+* [26.09.2020 - Training 2](./2020_2021/Training_2)
+
