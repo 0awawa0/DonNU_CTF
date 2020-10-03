@@ -3,8 +3,8 @@
 ## Task
 
 There are 4 types of encoding you will see:
-1) XOR  as "xor:key:data(bytes)"
-2) ROT as "rot:key:data(bytes)"
+1) XOR  as "xor::key:data(bytes)"
+2) ROT as "rot::key:data(bytes)"
 3) Hex as "hex:0xdata(hex_string)"
 4) Base64 as "base64:data(string)"
 
