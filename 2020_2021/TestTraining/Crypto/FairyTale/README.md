@@ -1,5 +1,7 @@
 # FairyTale
 
+Я: Сколько нужно алфавитов, чтобы зашифровать сообщение? 
+Блез: Чем больше тем лучше!
 ```
 Zswow Imswdpfws, Zc Foxh'a Rrhfxvr, thq Lag Crgec Vnlvexmf Tjwyfm Fvfyns kay Svgu sda gfarfbuxx zi lc ehtp pcz yvv lnbvqbzug sw Hmj Hzg Mbparpu, jc Yosx Qykcfxaoy Dvhvfxjb [mxlfmgb mb Irufjb Zrga]
 
