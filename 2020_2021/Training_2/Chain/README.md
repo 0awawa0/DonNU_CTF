@@ -7,4 +7,4 @@
 
 ## Solution
 
-[chain_encryption.py](./src/chain_encryption.py)
+[chain_encryption.py](./solution/chain_encryption.py)
