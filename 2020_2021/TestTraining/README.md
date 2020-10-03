@@ -1,4 +1,4 @@
-# Flag
+# Flags
 
 ```
 Basics - donnuCTF{n0w_y0u_know_7h3_bas1cs}
