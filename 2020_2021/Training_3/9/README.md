@@ -126,7 +126,7 @@ To determine lower border we should notice, that if length of part `p` is an eve
 
 Therefore if we split array into two parts of even length we will have `n/2` swaps. If some part has odd number of elements in it, we can substract `1` from array length as one element will not take part in swaps, and there will be `(n - 1) / 2` swaps. Finally if both parts has odd number of elements we get `(n - 2) / 2` swaps. So now we have lower bound. We can now say, that there will be `(n - 2) / 2 ... n / 2` swaps.
 
-But there is one more thing to consider. We can notice that if `n` is an even number. The array can be split in two odd parts or two even parts. And never into odd and even part. So for even number of elements in the array there are only two possible values `(n - 2) / 2` and `(n / 2)`. Although if `n` is an odd number, we will always get one odd and one even part, therefore we always will get `(n - 1) / 2` swaps.
+But there is one more thing to consider. We can notice that if `n` is an even number the array can be split in two odd parts or two even parts. And never into odd and even part. So for even number of elements in the array there are only two possible values `(n - 2) / 2` and `(n / 2)`. Although if `n` is an odd number, we will always get one odd and one even part, therefore we will always get `(n - 1) / 2` swaps.
 
 Our ciphertext has `33` elements, so no matter how we split the array we always will have `16` swaps. And just like that we have the key for `Encoder`. We still need to bruteforce the key for `Shuffler`.
 
