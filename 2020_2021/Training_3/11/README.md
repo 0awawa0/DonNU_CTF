@@ -125,3 +125,11 @@ fun main() {
 ```
 
 ## Solution
+
+There is a lot of code, although the task is actually not so hard. Program splits variable `flag` into two parts and checks every part with the checker. Checker for part1 is just checks for `part1` to be reversed `}{FTCunnod`. So `part1` is `donnuCTF{}`.
+
+Second part checker splits it into parts by underscore `_` and converts every part into `int`. Then it checks if there are three parts. Therefore `part2` should look like this `num1_num2_num3`. Finally checker checks these parts to satisfy three equations. Now we have three variables and three equations. Solving the system gives us 3 numbers: `1337`, `65537` and `777`.
+
+And the third checker just checks `part3` SHA256 to be equal to `a941a4c4fd0c01cddef61b8be963bf4c1e2b0811c037ce3f1835fddf6ef6c223`. All we need is to check the hash through some online dictionary to find word `sunshine`.
+
+Now combine three parts to get `donnuCTF{1337_65537_777_sunshine}`.

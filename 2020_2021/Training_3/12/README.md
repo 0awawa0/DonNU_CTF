@@ -60,3 +60,9 @@ if __name__ == "__main__":
 ```
 
 ## Solution
+
+Before going through the source code we could just try decrypt ciphertext with some well known ciphers as it really looks like ROT or Vigenere. But as the key is a string, it is probably not ROT. So lets check Vigenere.
+
+![decrypt](./src/decrypt.png)
+
+Yep, it is a Vigenere. So we didn't even have to look at the source code ;)
