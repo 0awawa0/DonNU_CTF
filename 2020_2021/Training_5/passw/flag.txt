@@ -1,0 +1,2 @@
+donnuCTF{notsecure}
+d269ce15f9c44bc3992a5f4e5f273e06 - это md5
