@@ -13,3 +13,5 @@ There are tasks from trainings we maintain at Donetsk National University.
 * [10.10.2020 - Training 3 Reverse](./2020_2021/Training_3)
 
 * [24.10.2020 - Training 4 Reverse](./2020_2021/Training_4)
+
+* [07.11.2020 - Training 5 Reverse](./2020_2021/Training_5)
