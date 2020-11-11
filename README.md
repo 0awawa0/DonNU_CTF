@@ -16,4 +16,4 @@ There are tasks from trainings we maintain at Donetsk National University.
 
 * [07.11.2020 - Training 5 Reverse](./2020_2021/Training_5)
 
-* [21.11.2020 - Training 6 Reverse](./2020_2021/Training_6)
+* [21.11.2020 - Training 6 Crypto](./2020_2021/Training_6)
