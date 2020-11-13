@@ -58,8 +58,9 @@ class PrivateKey:
 
         while gcd(e, fn) != 1:
             e = (e + 1) % (2 ** (n.bit_length() + 1) - 1)
-
-        return cls(e, n)
+            
+        d = egcd(e, fn)['a'] % fn
+        return cls(d, n)
 
     def __init__(self, d: int, n: int):
 
