@@ -257,6 +257,8 @@ def eulers_totient(n: int, factors: list = None) -> int:
 
 
 def iroot(a, b):
+    """Function to calculate a-th integer root from b. Example: iroot(2, 4) == 2
+    """
     if b < 2:
         return b
     a1 = a - 1
