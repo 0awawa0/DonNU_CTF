@@ -170,7 +170,7 @@ def get_prime(n: int) -> int:
         if n <= 1:
             return
 
-        num = random.getrandbits(n) | (2 ** n + 1)
+        num = random.getrandbits(n) | (2 ** (n - 1) + 1)
 
         # Now I has actual n bits number, but I cant say that it's prime
         # So I check it
