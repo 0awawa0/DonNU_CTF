@@ -19,3 +19,5 @@ There are tasks from trainings we maintain at Donetsk National University.
 * [21.11.2020 - Training 6 Crypto](./2020_2021/Training_6)
 
 * [05.12.2020 - Training 7 Forensic](./2020_2021/Training_7)
+
+* [06.02.2021 - Training 8 MISC/Crypto](./2020_2021/Training_8)
