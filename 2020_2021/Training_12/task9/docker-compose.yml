@@ -1,0 +1,12 @@
+version: '3'
+services:
+
+  website:
+    container_name: task9
+    image: task9
+    build:
+      context: ./
+    volumes:
+      - ./task:/var/www/html/
+    ports:
+      - 43592:80

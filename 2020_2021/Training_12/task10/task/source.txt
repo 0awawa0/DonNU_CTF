@@ -1,0 +1,20 @@
+<?php
+
+if(isset($_POST["submit"])) {
+  $web = $_POST["number"];
+
+  if (is_numeric($web)){
+    if (strlen($web) < 5){
+      if ( $web > 10000){
+        echo ('<div class="w3-panel w3-green"><h3>Correct</h3><p>donnuCTF{}</p></div>');
+      } else {
+        echo ('<div class="w3-panel w3-red"><h3>Wrong!</h3><p>Ohhhhh!!! Closer  </p></div>'); 
+      }
+    } else {
+        echo ('<div class="w3-panel w3-red"><h3>Wrong!</h3><p>Nice!!! Near But Far</p></div>');
+    }
+  } else {
+    echo ('<div class="w3-panel w3-red"><h3>Wrong!</h3><p>Ahhhhh!!! It is not a number!</p></div>');
+  }
+}
+?>
