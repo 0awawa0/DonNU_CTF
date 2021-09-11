@@ -1,0 +1,126 @@
+[
+	{
+		"name":"Training1",
+		"tasks":
+		[
+			{
+				"category":"Stego",
+				"name":"Stegsolve",
+				"description": "Flag format: donnuCTF{[a-zA-Z0-9!_]+}",
+				"flag":"donnuCTF{y0u_are_Lucky!3}",
+				"attachment":"./Stegsolve/Cteno_1.png"
+			},
+
+			{
+				"category":"Stego",
+				"name":"HEX",
+				"description": "Flag format: donnuCTF{[a-z-A-Z_]+}",
+				"flag":"donnuCTF{I_am_spEEd_Ka_Chow}",
+				"attachment":"./HEX/Cteno_2.jpg"
+			},
+
+			{
+				"category":"Stego",
+				"name":"Hide file",
+				"description": "Flag format: donnuCTF{[a-z-A-Z0-9_]+}",
+				"flag":"donnuCTF{Radiat0R_Spr1ngs3}",
+				"attachment":"./Hide file/Cteno_3.jpg"
+			},
+
+			{
+				"category":"Stego",
+				"name":"Audacity",
+				"description": "Flag format: donnuCTF{[a-zA-Z_&]+}",
+				"flag":"donnuCTF{Ash_Lynx_&eiJo}",
+				"attachment":"./Audacity/Cteno_4.mp3"
+			},
+
+			{
+				"category":"Stego",
+				"name":"Hide file",
+				"description": "Flag format: donnuCTF{[A-Z0-9_&]+}",
+				"flag":"donnuCTF{BE_Y0UR&ELF_&_YOUWILL_BE_FINE}",
+				"attachment":"./Hide file 1/Cteno_5.jpg"
+			},
+
+			{
+				"category":"Stego",
+				"name":"1",
+				"description": "Flag format: donnuctf{[a-z_]+}",
+				"flag":"donnuctf{_we_hate_the_onrs _we_love_because_they_can_cause_the_deepest_suffering_}",
+				"attachment":"./1/Cteno_6.png"
+			},
+
+			{
+				"category":"Stego",
+				"name":"2",
+				"description": "Flag format: donnuctf{[a-z_]+}",
+				"flag":"donnuctf{_ctf_win_}",
+				"attachment":"./2/Cteno_7.jpg"
+			},
+
+			{
+				"category":"Stego",
+				"name":"3",
+				"description": "Flag format: donnuctf{[a-z_]+}",
+				"flag":"donnuctf{_ctf_over_}",
+				"attachment":"./3/Cteno_8.png"
+			},
+
+			{
+				"category":"Stego",
+				"name":"4",
+				"description": "Flag format: donnuctf{[a-z_]+}",
+				"flag":"donnuctf{_ctf_good_}",
+				"attachment":"./4/Cteno_9.png"
+			},
+
+			{
+				"category":"Stego",
+				"name":"5",
+				"description": "Flag format: donnuctf{[a-z_]+}",
+				"flag":"donnuctf{_ctf_wooy_}",
+				"attachment":"./5/Cteno_10.wav"
+			},
+
+			{
+				"category":"Stego",
+				"name":"Stegolook",
+				"description": "Flag format: donnuCTF{[a-zA-Z0-9-_]+}",
+				"flag":"donnuCTF{g1f_G1F-gif_GIF}",
+				"attachment":"./Stegolook/Cteno_11.gif"
+			},
+
+			{
+				"category":"Stego",
+				"name":"Key",
+				"description": "Flag format: donnuCTF{[a-zA-Z0-9_]+}",
+				"flag":"donnuCTF{S55_D55per_and_F1nd}",
+				"attachment":"./Key/Cteno_12.zip"
+			},
+
+			{
+				"category":"Stego",
+				"name":"CheckMate",
+				"description":"Кошечка делает 'Мяу', собачка делает 'Гав', биты делают 'ГГ'\n\nFlag format: donnuCTF{[0-9a-f]{32}}",
+				"flag":"donnuCTF{1fdcf8f3f62fae0eda250f2f0958534e}",
+				"attachment":"./CheckMate/stego1/stego1.zip"
+			},
+
+			{
+				"category":"Stego",
+				"name":"25",
+				"description":"Знаете почему техника 25 кадра не работает? Потому что её неправильно применяют! Всё дело в простых числах.\n\nПриложение: https://disk.yandex.ua/i/E374fcPqEDrEvQ\n\nFlag format: donnuCTF{[0-9a-f]{32}}",
+				"flag":"donnuCTF{5f6eec659e68a90113722c8b09ffee871}"
+			},
+
+			{
+				"category": "Stego",
+				"name": "WallpaperGenerator",
+				"description": "Port: 43584\n\nFlag format: donnuCTF{[0-9a-f]{32}}",
+				"flag": "donnuCTF{830c704cc9bb6f98b28757e659309ec1}",
+				"attachment": "./WallpaperGenerator/stego3/source.zip"
+			}
+		]
+	}
+]
