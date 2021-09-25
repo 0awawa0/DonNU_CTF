@@ -1,0 +1,169 @@
+[
+	{
+		"name":"Training2",
+		"tasks":[
+			{
+				"category":"Crypto",
+				"name":"Cipher",
+				"description":"Now listen, Dipper. I have a very important mission, and you are the only one who can help me.\n\nFlag format: donnuCTF{[a-z_]+}",
+				"flag":"donnuCTF{you_can_do_this}",
+				"attachment":"./Cipher/Cripto_1.jpg"
+			},
+
+			{
+				"category":"Crypto",
+				"name":"Numeral System",
+				"description":"Yeah....That's not really helping. Maybe you can try another numeral system?\n\nFlag format: donnuCTF{[a-zA-Z0-9_!]+}",
+				"flag":"donnuCTF{neVer_st0p!}",
+				"attachment":"./Numeral System/Cripto_2.txt"
+			},
+
+			{
+				"category":"Crypto",
+				"name":"Substitution Cipher",
+				"description":"It will help you: 1=2\n2=5\n3=1\n4=6\n5=4\n6=3\n7=11\n8=9\n9=7\n10=8\n11=10\n\nFlag format: donnuCTF{[A-Z_]+}",
+				"flag":"donnuCTF{FALSE_OR_TRUE}",
+				"attachment":"./Substitution Cipher/Cripto_3.txt"
+			},
+
+			{
+				"category":"Crypto",
+				"name":"easy1",
+				"description":"Inspect the file to find a flag\n\nFlag format: donnuCTF{[a-zA-Z0-9_]+}",
+				"flag":"donnuCTF{С0ngratu1ati0ns_y0u_g0t_y0ur_fir5t_p0int5}",
+				"attachment":"./easy1/Cripto_4.txt"
+			},
+
+			{
+				"category":"Crypto",
+				"name":"easy2",
+				"description":"Inspect the file to find a flag\n\nFlag format: donnuCTF{[a-z0-9]+}",
+				"flag":"donnuCTF{we1l_n0w_y0u_kn0w_what_6a5e_i5_ea5y}",
+				"attachment":"./easy2/Cripto_5.txt"
+			},
+
+			{
+				"category":"Crypto",
+				"name":"simple_cipher",
+				"description":"Вспомните простые шифры : bsebfanpeoodvgu }sebf nud ga/fcpdfnatabphmbxafiaodbjuopjaatbuflaopubxesjatubaidfjfwfnuo\n\nFlag format: donnuctf{[a-z_]+}",
+				"flag":"donnuctf{_dream_ctf_}"
+			},
+
+			{
+				"category":"Crypto",
+				"name":"2",
+				"description":"a2FldyB!laHQgZW!IgZ25vc!nRzIGVo!dCBzZWt!hbSBkbm!EgfXJhZ!WZfcnVv!eV9lbW9!jcmV2b1!9mdGNfe!2Z0Y3Vu!bm9kIHl!sbGlzIG!VodCBvd!G5pIHJl!dmVsYyB!laHQgc3!JlZnNuY!XJ0IHJh!ZWY=!\n\nFlag format: donnuctf{[a-z_]+}",
+				"flag":"donnuctf{_ctf_overcome_your_fear}"
+			},
+
+			{
+				"category":"Crypto",
+				"name":"Listen",
+				"description":"Слушай внимательно\n\nFlag format: donnuctf{[a-z_]+}",
+				"flag":"donnuctf{_ctf_life_is_beautiful_}",
+				"attachment":"./Listen/Cripto_8.wav"
+			},
+
+			{
+				"category":"Crypto",
+				"name":"RSA_Dream",
+				"description":"Зашифруйте фразу \"меня греет только моя мечта\" с помощью RSA (код прикреплен) сумма результата в стандартном виде будет флагом\n\nFlag format: donnuctf{[a-z0-9_]+}",
+				"flag":"donnuctf{_ctf_1937_}",
+				"attachment":"./RSA_Dream/Cripto_9.py"
+			},
+
+			{
+				"category":"Crypto",
+				"name":"easy4",
+				"description":"Inspect the file to find a flag\n\nFlag format: donnuCTF{[a-z_]+}",
+				"flag":"donnuCTF{secure_password}",
+				"attachment":"./easy4/Crypto_10.txt"
+			},
+
+			{
+				"category":"Crypto",
+				"name":"Use your eyes",
+				"description":"Inspect the picture to find a flag\n\nFlag format: donnuCTF{[a-z0-9_;]+}",
+				"flag":"donnuCTF{using_eye5_1s_s0metimes_helpfu1_;}",
+				"attachment":"./Use your eyes/Crypto_11.png"
+			},
+
+			{
+				"category":"Crypto",
+				"name":"King Of The Sea",
+				"description":"Inspect the file to find a flag\n\nFlag format: donnuCTF{[a-zA-Z0-9_]+}",
+				"flag":"donnuCTF{M0rS3_50_easy}",
+				"attachment":"./King Of The Sea/Sound Of The Sea.wav"
+			},
+
+			{
+				"category":"Crypto",
+				"name":"AsciiAscii",
+				"description":"Flag format: donnuCTF{[a-z0-9_]+}",
+				"flag":"donnuCTF{rever5e_me_plea5e}",
+				"attachment":"./AsciiAscii/ASCIIASCII.py"
+			},
+
+			{
+				"category":"Crypto",
+				"name":"ciphermix",
+				"description":"Flag format: donnuCTF{[a-z_]+}",
+				"flag":"donnuCTF{where_is_your_flag}",
+				"attachment":"./ciphermix/ciphermix.py"
+			},
+
+			{
+				"category":"Crypto",
+				"name":"RC4",
+				"description":"Flag format: donnuCTF{[a-zA-Z0-9_]+}",
+				"flag":"donnuCTF{See_c1os5_RC4_1s_n0t_s0_popu1ar}",
+				"attachment":"./RC4/RC4Task.jpg"
+			},
+
+			{
+				"category":"Crypto",
+				"name":"wandering on the internet",
+				"description":"Inspect the file to find a flag\n\nFlag format: donnuCTF{[a-z_]+}",
+				"flag":"donnuCTF{each_of_us_has_an_account_on_a_social_network}",
+				"attachment":"./wandering on the internet/who-changed-it-and-why.png"
+			},
+
+			{
+				"category":"Crypto",
+				"name":"Substitution",
+				"description":"Flag format: donnuCTF{[a-z]+}",
+				"flag":"donnuCTF{ancientcryptoisfascinating}",
+				"attachment":"./Substitution/Sunstitution.txt"
+			},
+
+			{
+				"category":"Crypto",
+				"name":"Fib01",
+				"flag":"donnuCTF{cb9cdf98e16fb98ad8f9f937760e46b6}",
+				"attachment":"./Fib01/Fib01/task.py"
+			},
+
+			{
+				"category":"Crypto",
+				"name":"Mersenne dancing the twist",
+				"description":"Do your research.\n\nFlag format: donnuCTF{[a-f0-9]{32}}",
+				"flag":"donnuCTF{162745b70dec6b66cde9b89f94a15066}",
+				"attachment":"./Mersenne dancing the twist/Mersenne dancing the twist/task.py"
+			},
+
+			{
+				"category":"Crypto",
+				"name":"ShiftAndAdd",
+				"flag":"donnuCTF{5dcfbc8584d7dddd332d11f0a9cb97a8}",
+				"attachment":"./ShiftAndAdd/ShiftAndAdd/task.py"
+			},
+
+			{
+				"category":"Crypto",
+				"name":"MITM",
+				"description":"Flag format: donnuCTF{[a-f0-9]{32}}",
+				"flag":"donnuCTF{99fb81f60fe3f85a87c28d62b0e74e57}",
+				"attachment":"./MITM/MITM/meme.jpg"
+			}
+		]
+}]

@@ -1,0 +1,9 @@
+[
+	{
+		"category": "Crypto",
+		"name": "MITM",
+		"description": "Flag format: donnuCTF{[a-f0-9]{32}}",
+		"flag": "donnuCTF{99fb81f60fe3f85a87c28d62b0e74e57}",
+		"attachment": "./task.jpg"
+	}
+]

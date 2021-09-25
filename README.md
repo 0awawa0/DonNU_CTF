@@ -33,3 +33,5 @@ There are tasks from trainings we maintain at Donetsk National University.
 ## 2021/2022
 
 * [11.09.2021 - Training 1 Steganography](./2021_2022/Training_1)
+
+* [25.09.2021 - Training 2 Symmetric Crypto](./2021_2022/Training_2)

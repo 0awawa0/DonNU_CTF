@@ -1,0 +1,9 @@
+[
+	{
+		"category": "Crypto",
+		"name": "Mersenne dancing the twist",
+		"description": "Do your research.\n\nFlag format: donnuCTF{[a-f0-9]{32}}",
+		"flag": "donnuCTF{162745b70dec6b66cde9b89f94a15066}",
+		"attachment": "./task.py"
+	}
+]

@@ -1,0 +1,8 @@
+[
+	{
+		"category": "Crypto",
+		"name": "Fib01",
+		"flag": "donnuCTF{cb9cdf98e16fb98ad8f9f937760e46b6}",
+		"attachment": "./task.py"
+	}
+]

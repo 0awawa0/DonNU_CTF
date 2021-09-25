@@ -1,0 +1,14 @@
+donnuCTF{TEZPRUFfU1JfVVRFUg==}
+
+It will help you:
+	        1=2
+		2=5
+		3=1
+		4=6
+		5=4
+		6=3
+		7=11
+		8=9
+		9=7
+		10=8
+		11=10
