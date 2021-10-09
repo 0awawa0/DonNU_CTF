@@ -1,0 +1,150 @@
+[{
+  "name": "Training3",
+  "tasks": [
+    {
+      "category": "WEB",
+      "name": "Level 1. Task 1",
+      "flag": "donnuCTF{yGQu_zD2q_Wx6v_fgDx}"
+    },
+    {
+      "category": "WEB",
+      "name": "Level 1. Task 2",
+      "flag": "donnuCTF{QGH7_GVgQ_Sy8u_Unyd}"
+    },
+    {
+      "category": "WEB",
+      "name": "Level 1. Task 3",
+      "flag": "donnuCTF{Qr9L_h8bA_RMhB_Wdha}"
+    },
+    {
+      "category": "WEB",
+      "name": "Level 1. Task 4",
+      "flag": "donnuCTF{25Xa_2pGW_AJh3_qbrn}"
+    },
+    {
+      "category": "WEB",
+      "name": "Level 1. Task 5",
+      "flag": "donnuCTF{tyRb_XbPe_Nv4x_ZYGV}"
+    },
+    {
+      "category": "WEB",
+      "name": "Level 1. Task 6",
+      "flag": "donnuCTF{4wxa_89Z2_7ZJd_LXAv}"
+    },
+    {
+      "category": "WEB",
+      "name": "Level 1. Task 7",
+      "flag": "donnuCTF{mFxp_Qb7m_FWhA_Pgg6}"
+    },
+    {
+      "category": "WEB",
+      "name": "Level 1. Task 8",
+      "flag": "donnuCTF{3cx4_SrqL_KF2P_Vahy}"
+    },
+    {
+      "category": "WEB",
+      "name": "Level 1. Task 9",
+      "flag": "donnuCTF{t2xM_xnRE_xckw_Ntsn}"
+    },
+    {
+      "category": "WEB",
+      "name": "Level 1. Task 10",
+      "flag": "donnuCTF{J6a9_EpRf_77sP_XLQs}"
+    },
+
+
+    {
+      "category": "WEB",
+      "name": "Level 2. Flag 1",
+      "flag": "donnuCTF{pyhM_vj2G_QYyX_S5Uh}"
+    },
+    {
+      "category": "WEB",
+      "name": "Level 2. Flag 2",
+      "flag": "donnuCTF{YzGX_XCt4_Wj8e_T5uV}"
+    },
+    {
+      "category": "WEB",
+      "name": "Level 2. Flag 3",
+      "flag": "donnuCTF{EysQ_vMxf_ZV3Q_avp5}"
+    },
+    {
+      "category": "WEB",
+      "name": "Level 2. Flag 4",
+      "flag": "donnuCTF{xygL_raCm_h7rt_cXut}"
+    },
+    {
+      "category": "WEB",
+      "name": "Level 2. Flag 5",
+      "flag": "donnuCTF{h6h2_9NQF_JSM9_bsD4}"
+    },
+    {
+      "category": "WEB",
+      "name": "Base",
+      "flag": "donuCTF{ba5e_wi11_n0t_pr0vide_re1iable_pr0tection}"
+    },
+    {
+      "category": "WEB",
+      "name": "UserAgent",
+      "flag": "donnuCTF{Us3r_Ag3n7_1s_easy_70_replace}"
+    },
+    {
+      "category": "WEB",
+      "name": "LFI",
+      "flag": "donnuCTF{Inc0rrec7_1ndexing_declass1f13s_da7a}"
+    },
+    {
+      "category": "WEB",
+      "name": "Back",
+      "flag": "donnuCTF{Tdmcd45PchJK}"
+    },
+    {
+      "category": "WEB",
+      "name": "ComInc",
+      "flag": "donnuCTF{Use_f1l7er5_t0_l1m17_input_parame7ers}"
+    },
+    
+    {
+      "category": "WEB",
+      "name": "cookieMonster",
+      "flag": "donnuCTF{M0nster_d0esnt_bite_Me}"
+    },
+    {
+      "category": "WEB",
+      "name": "cookies",
+      "flag": "donnuCTF{Y0u_sh0uld_be_0n_My_page_M0re}"
+    },
+    {
+      "category": "WEB",
+      "name": "Obfuscation",
+      "flag": "donnuCTF{Java_Scr1pt_Beaut1ful}"
+    },
+    
+    
+    {
+      "category": "WEB",
+      "name": "REDIRECT",
+      "flag": "donnuCYF{1_can_red1rect_y0u_an1where}"
+    },
+    {
+      "category": "WEB",
+      "name": "shop",
+      "flag": "donnuCTF{1ncredible_e1v1sh_w4ybre4d}"
+    },
+    {
+      "category": "WEB",
+      "name": "SQL1",
+      "flag": "donnuCTF{6e4adb1a77fd24ab2da66b9b807297d9}"
+    },
+    {
+      "category": "WEB",
+      "name": "SQL2",
+      "flag": "donnuCTF{b76dd1664628e3fe1756de9a4eb2cbdc}"
+    },
+    {
+      "category": "WEB",
+      "name": "SQL3",
+      "flag": "donnuCTF{e4ddca2d8e987fa50b19df223a51c24f}"
+    }
+  ]
+}]

@@ -1,0 +1,153 @@
+@font-face {
+	font-family: SF-UI;
+	src: url("SF UI.ttf");
+}
+
+* {
+	box-sizing: border-box;
+	outline: none;
+	line-height: 1.75rem;
+
+	--primary-bg-color: rgb(36, 36, 38);
+
+	--primary-text-color: rgba(255, 255, 255, 0.9);
+	--secondary-text-color: rgba(255, 255, 255, 0.55);
+
+	--soft-blue: rgb(42, 88, 195);
+	--soft-red: rgb(255, 105, 97);
+	--soft-green: rgb(140, 212, 126);
+}
+
+.white {
+	color: #fff !important;
+}
+.green {
+	color: var(--soft-green) !important;
+}
+.red {
+	color: var(--soft-red) !important;
+}
+.blue {
+	color: var(--soft-blue) !important;
+}
+
+html,
+body {
+	height: 100vh;
+	width: 100vw;
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+	letter-spacing: 1.5px;
+	font-family: SF-UI;
+	background: var(--primary-bg-color);
+}
+
+img {
+	filter: none !important;
+	margin-bottom: 1.25rem;
+}
+
+form {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	filter: none !important;
+}
+
+i {
+	font-style: normal;
+}
+a {
+	text-decoration: none;
+}
+
+img {
+	width: 50%;
+}
+img:before {
+	content: "";
+	display: block;
+	padding-top: 100%;
+}
+
+.content {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 30vw;
+	max-width: 475px;
+	border-radius: 10px;
+	transform: translate(-50%, -50%);
+	background: var(--primary-bg-color);
+	filter: brightness(1.15);
+	padding: 1rem;
+	display: flex;
+	flex-direction: column;
+	color: var(--secondary-text-color);
+}
+
+@media screen and (max-width: 478px) {
+	.content {
+		left: 0;
+		transform: translateY(-50%);
+	}
+}
+@media screen and (max-width: 870px) {
+	.content {
+		width: 100vw;
+	}
+}
+
+.tc {
+	text-align: center;
+}
+.middle {
+	margin: 0 auto !important;
+	margin-top: 2rem !important;
+}
+
+.title {
+	width: 100%;
+	font-size: 1.25rem;
+	margin-bottom: 1.25rem;
+	color: var(--primary-text-color);
+	text-align: center;
+	transition: opacity 0.3s;
+}
+
+.subcontent {
+	font-size: 1rem;
+	font-weight: 100;
+	color: var(--secondary-text-color);
+	height: 100%;
+	filter: none;
+}
+
+input {
+	color: var(--secondary-text-color);
+	background: var(--primary-bg-color);
+	filter: brightness(1.4) !important;
+	border-width: 0;
+	box-shadow: none !important;
+	padding: .5rem;
+	margin: .5rem;
+	border-radius: 10px;
+	width: 240px;
+}
+input:focus {
+	border-width: 0;
+	box-shadow: none !important;
+}
+
+input[type="submit"], input[type="button"] {
+	color: var(--primary-text-color);
+	background: var(--soft-blue);
+	filter: none !important;
+	line-height: 1.25rem;
+	margin-top: 2rem;
+}
+input[type="submit"]:hover, input[type="button"]:hover {
+	background-image: linear-gradient(rgba(0, 0, 0, 0.25) 0 0);
+	cursor: pointer;
+}

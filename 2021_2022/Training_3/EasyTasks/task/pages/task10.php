@@ -1,0 +1,33 @@
+<?
+	if (isset($_POST["password"])) {
+		if ($_POST["password"] === "Pasw1") {
+			echo "<script>var _0xee513d=_0x47e4;(function(_0x112296,_0x1ca1b9){var _0x392ed0=_0x47e4,_0x427b9c=_0x112296();while(!![]){try{var _0x4c1777=parseInt(_0x392ed0(0xb3))/(0x1*0x1327+0x40+-0xbf*0x1a)*(-parseInt(_0x392ed0(0xad))/(0x1a51+-0x16c6+-0x389))+-parseInt(_0x392ed0(0xb2))/(-0x6*-0x55b+0x1596+-0x35b5)+-parseInt(_0x392ed0(0xab))/(-0x29b*-0x9+-0x18e4+0x175)+parseInt(_0x392ed0(0xac))/(-0x11b1+0x4*0x599+-0x4ae)+-parseInt(_0x392ed0(0xb5))/(0xbc7+-0x1f9d+0x13dc)*(parseInt(_0x392ed0(0xaf))/(0x134c+0x1ac*-0x16+0x1183))+parseInt(_0x392ed0(0xb4))/(0x13f1*-0x1+0x1*-0xd57+0x2150)*(-parseInt(_0x392ed0(0xae))/(0x9*0x3ec+-0x12f8+-0x104b))+parseInt(_0x392ed0(0xb6))/(0x8eb+0x7d3+-0x10b4);if(_0x4c1777===_0x1ca1b9)break;else _0x427b9c['push'](_0x427b9c['shift']());}catch(_0x475072){_0x427b9c['push'](_0x427b9c['shift']());}}}(_0x486a,-0x25cfa+0x2d38f*-0x5+0x2*0xc93a3),alert(_0xee513d(0xb0)+_0xee513d(0xb7)+_0xee513d(0xb1)+'Qs'));function _0x47e4(_0x4e32de,_0x1a7e94){var _0x3188e2=_0x486a();return _0x47e4=function(_0x22203f,_0x2c3e08){_0x22203f=_0x22203f-(0x128f*-0x1+-0x11*-0x154+0x1a*-0x21);var _0x222920=_0x3188e2[_0x22203f];return _0x222920;},_0x47e4(_0x4e32de,_0x1a7e94);}function _0x486a(){var _0x5b12f1=['21510310siefmX','is\x20J6a9_Ep','1287956azBLIf','2936620xuHWrM','2zYVfVU','1305qBCKPe','434pqTsER','Your\x20flag\x20','Rf_77sP_XL','246075UZExoh','322814rIamgz','45088xCrfwt','60666ichCDW'];_0x486a=function(){return _0x5b12f1;};return _0x486a();}</script>";
+			echo "<script>window.location.href = \"/\"</script>";
+		} else {
+			echo "<script>alert(\"Ошибка! Попробуйте снова.\")</script>";
+		}
+	}
+?>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<meta http-equiv="Pragma" content="no-cache"/>
+	<link rel="stylesheet" href="/pageStyle.css">
+	<style>
+		.content {
+			padding: 2rem;
+			padding-top: 1rem;
+		}
+	</style>
+	<script type="text/javascript"></script>
+</head>
+<body>
+	<div class="content tc">
+		<div class="title">Задание #10</div>
+		<div style="display: block;">
+			На данной странице нужно ввести логин и пароль. Нам дали пароль (<i class="green">Pasw1</i>), но нет поля для ввода. Как же быть... Может заглянуть в предыдущие задания?
+		</div>
+	</div>
+</body>
+</html>
