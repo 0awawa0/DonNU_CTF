@@ -1,0 +1,8 @@
+[
+	{
+		"category": "Crypto",
+		"name": "HintedRSA",
+		"flag": "donnuCTF{8b676fc19f20cfd0cbf4a02ee64855d0}",
+		"attachment": "./task.py"
+	}
+]

@@ -1,0 +1,5 @@
+g=5
+p=23
+AlicePrivateKey=39
+BobPrivateKey=41
+

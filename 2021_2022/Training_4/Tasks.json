@@ -1,0 +1,155 @@
+[
+	{
+		"name": "Training4",
+		"tasks": [
+			{
+				"category": "Crypto",
+				"name": "Public",
+				"flag": "donnuCTF{whEn_life_gives_u_lem0ns_drin_tEquilA!3}",
+				"description": "Something is wrong with the public key...",
+				"attachment": "./Training4/Public.txt"
+			},
+
+			{
+				"category": "Crypto",
+				"name": "RSAMonster",
+				"flag": "donnuCTF{d0n\"t_be_sad_Frankenstein_wAs_Ugly_t00}",
+				"description": "Unfortunately, the password has been rearranged so many times that its original appearance has been lost. Can you restore?",
+				"attachment": "./Training4/RSAMonster.zip"
+			},
+
+			{
+				"category": "Crypto",
+				"name": "DiffieEasy1",
+				"flag": "donnuCTF{19}",
+				"description": "Flag is donnuCTF{common Alica and Bob secret}",
+				"attachment": "./Training4/DiffieEasy1.txt"
+			},
+
+			{
+				"category": "Crypto",
+				"name": "DiffieEasy2",
+				"flag": "donnuCTF{521,619}",
+				"attachment": "./Training4/DiffieEasy2.jpg"
+			},
+
+			{
+				"category": "Crypto",
+				"name": "Findab",
+				"flag": "donnuCTF{1956}",
+				"attachment": "./Training4/Findab.jpg"
+			},
+
+			{
+				"category": "Crypto",
+				"name": "DiffieThree",
+				"flag": "donnuCTF{380583496208672584803769106881}",
+				"description": "Alice, Bob, and Cinty want to get shared key by Diffie-Hellman method.",
+				"attachment": "./Training4/DiffieThree.txt"
+			},
+
+			{
+				"category": "Crypto",
+				"name": "Decript",
+				"flag": "donnuCTF{1mp0ss1bl3_d1ff13_h3llm4n_4tt4ck}",
+				"attachment": "./Training4/Decript.zip"
+			},
+
+			{
+				"category": "Crypto",
+				"name": "CrazyDiffie",
+				"flag": "donnuCTF{d41d8cd98f00b204e9800998ecf8427e}",
+				"description": "Somethibg is wrong!",
+				"attachment": "./Training4/CrazyDiffie.zip"
+			},
+
+			{
+				"category": "Crypto",
+				"name": "Circular",
+				"flag": "donnuCTF{168419691318328}",
+				"description": "Sometimes you can't get all parameters for Diffie-Hellman",
+				"attachment": "./Training4/Circular.txt"
+			},
+
+			{
+				"category": "Crypto",
+				"name": "Polig",
+				"flag": "donnuCTF{powers_of_two_are_not_two_powerful}",
+				"description": "XOR is good, but give me the key!",
+				"attachment": "./Training4/Polig.zip"
+			},
+
+			{
+				"category": "Crypto",
+				"name": "RSAbaby1",
+				"flag": "donnuCTF{falls_apart_so_easily_and_reassembled_so_crudely}",
+				"description": "Зашифруйте фразу \"меня греет только моя мечта\" с помощью RSA (код прикреплен) сумма результата в стандартном виде будет флагом",
+				"attachment": "./Training4/RSAbaby1.txt"
+			},
+
+			{
+				"category": "Crypto",
+				"name": "RSAbaby2",
+				"flag": "donnuCTF{Y0u_Kn0w_R54_very_We11}",
+				"attachment": "./Training4/RSAbaby2.txt"
+			},
+
+			{
+				"category": "Crypto",
+				"name": "Secret",
+				"flag": "donnuCTF{N0w_y0u_w0uld_be_cleverer}",
+				"description": "Fing common secret for server and client and decrypt the flag",
+				"attachment": "./Training4/Secret.py"
+			},
+
+			{
+				"category": "Crypto",
+				"name": "RSACM",
+				"flag": "donnuCTF{C0mmon_M0dulus}",
+				"attachment": "./Training4/RSACM.txt"
+			},
+
+			{
+				"category": "Crypto",
+				"name": "rsa11",
+				"flag": "donnuCTF{asr}",
+				"attachment": "./rsa11.txt"
+			},
+
+			{
+				"category": "Crypto",
+				"name": "rsa12",
+				"flag": "donnuCTF{Sec_Mas}",
+				"attachment": "./rsa12.txt"
+			},
+
+			{
+				"category": "Crypto",
+				"name": "RSA?",
+				"flag": "donnuCTF{c1004f98a770bc0ecf3a6b74431468fb}",
+				"attachment": "./RSA?/task.py"
+			},
+
+			{
+				"category": "Crypto",
+				"name": "NonLinear",
+				"flag": "donnuCTF{ab03d203692faf188ba7a6698c20446a}",
+				"attachment": "./NonLinear/task.py"
+			},
+
+			{
+				"category": "Crypto",
+				"name": "HintedRSA",
+				"flag": "donnuCTF{8b676fc19f20cfd0cbf4a02ee64855d0}",
+				"attachment": "./HintedRSA/task.py"
+			},
+
+			{
+				"category": "Crypto",
+				"name": "NotesVault",
+				"flag": "donnuCTF{5407be5a51740b3e62543a509e73fe35}",
+				"attachment": "./NotesVault/task.py"
+			}
+		]
+	}
+]

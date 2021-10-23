@@ -1,0 +1,5 @@
+help Milred to dencrypt the message m
+c=125030676
+n=240374849
+e=23
+flag:donnuCTF{m_in_text}

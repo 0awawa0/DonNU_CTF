@@ -1,0 +1,8 @@
+It appears to be a Diffie-hellman protocol, but my math isn't good enough to figure out what the final shared key is. Help!
+
+g^a mod p = 421049228295820
+g^b mod p = 105262307073955
+p = 442101689710611
+
+
+hint: find common divisor of 3 numbers
