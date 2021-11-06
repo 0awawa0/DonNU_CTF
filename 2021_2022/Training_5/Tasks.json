@@ -1,0 +1,85 @@
+[{
+  "name": "Training5",
+  "tasks": [
+    {
+      "category": "Reverse",
+      "name": "task0",
+      "flag": "donnuCTF{ascii_3nc0ding}",
+      "attachment": "./Training5/eazy0"
+    },
+    {
+      "category": "Reverse",
+      "name": "task1",
+      "flag": "donnuCTF{nothing_hard_at_all}",
+      "attachment": "./Training5/eazy1"
+    },
+    {
+      "category": "Reverse",
+      "name": "task2",
+      "flag": "donnuCTF{6e4057575c}",
+      "description": "Hi. My name is Kerry. Here is some program, which needs some serial. Can you get it?",
+      "attachment": "./Training5/eazy2"
+    },
+    {
+      "category": "Reverse",
+      "name": "task3",
+      "flag": "donnuCTF{0xDEADBEEF}",
+      "attachment": "./Training5/eazy3"
+    },
+    {
+      "category": "Reverse",
+      "name": "task4",
+      "flag": "donnuCTF{x0r_3ncrypt10n}",
+      "description": "My friend wryte some program to encrypt his confidential data. Can you decrypt it?",
+      "attachment": "./Training5/eazy4.zip"
+    },
+    {
+      "category": "Reverse",
+      "name": "task5",
+      "flag": "donnuCTF{x0r+aff1n3=<3}",
+      "description": "Here is another encryption program, but there is one little trouble: it doesn`t work. Please, decrypt the message for me.",
+      "attachment": "./Training5/eazy5.zip"
+    },
+    {
+      "category": "Reverse",
+      "name": "taskA",
+      "description": "My friend make a new encryption program(again). He send me this message qbaahPGS{na0gu3e_e0g}.",
+      "flag": "donnuCTF{an0th3r_r0t}",
+      "attachment": "./Training5/eazyA"
+    },
+    {
+      "category": "Reverse",
+      "name": "newbie0",
+      "flag": "donnuCTF{do_U_l0v3_35073r1c}",
+      "description": "Break your brain. Flag format donnuCTF{flag}",
+      "attachment": "./Training5/newbie0"
+    },
+    {
+      "category": "Reverse",
+      "name": "newbie1",
+      "flag": "donnuCTF{just_r3ad_s0urc3s}",
+      "description": "My friend just send me this message. Can you decode it? And here is some program, that he used. Message is 5@??Fr%uL;FDE0Cb250D_FC4bDN",
+      "attachment": "./Training5/newbie1.java"
+    },
+    {
+      "category": "Reverse",
+      "name": "NumberNumber",
+      "flag": "donnuCTF{My_Number_1s_Here}",
+      "description": "What doesthe number tell?",
+      "attachment": "./Training5/NumberNumber.pyc"
+    },
+    {
+      "category": "Reverse",
+      "name": "SecretNumber",
+      "flag": "donnuCTF{0xfffff662}",
+      "attachment": "./Training5/SecretNumber.zip"
+    },
+    {
+      "category": "Reverse",
+      "name": "JuniorDream",
+      "flag": "donnuCTF{6162636468696c6e6f70}",
+      "description": "Juniors like to have such tasks for an interview",
+      "attachment": "./Training5/JuniorDream.zip"
+    }
+  ]
+}]

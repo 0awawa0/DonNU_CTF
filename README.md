@@ -39,3 +39,5 @@ There are tasks from trainings we maintain at Donetsk National University.
 * [09.10.2021 - Training 3 WEB](./2021_2022/Training_3)
 
 * [23.10.2021 - Training 4 Asymmetric Crypto](./2021_2022/Training_4)
+
+* [06.11.2021 - Training 5 Reverse](./2021_2022/Training_5)
