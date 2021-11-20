@@ -1,0 +1,79 @@
+[{
+ "name": "Training6",
+  "tasks": [
+    {
+      "category": "Reverse",
+      "name": "Checker",
+      "description": "Wrap your answer in donnuCTF{...}",
+      "flag": "donnuCTF{12b9}",
+      "attachment": "./Training6/Checker.zip"
+    },
+   {
+      "category": "Reverse",
+      "name": "Count",
+      "flag": "donnuCTF{14c}",
+      "attachment": "./Training6/Count.zip"
+    },
+{
+      "category": "Reverse",
+      "name": "Encrypt",
+      "flag": "donnuCTF{c0unt_b4tter}",
+      "attachment": "./Training6/Encrypt.zip"
+    },
+
+  {
+      "category": "Reverse",
+      "name": "EasyHex",
+      "flag": "donnuCTF{That_1s_R1ght_at_last}",
+      "attachment": "./Training6/EasyHex.zip"
+    },
+ {
+      "category": "Reverse",
+      "name": "FindPass",
+      "flag": "donnuCTF{virustotal}",
+      "attachment": "./Training6/FindPass.zip"
+    },
+{
+      "category": "Reverse",
+      "name": "Reversed",
+      "flag": "donnuCTF{F1ag_1s_ReverSed}",
+      "attachment": "./Training6/flag.png"
+    },
+{
+      "category": "Reverse",
+      "name": "SecretProgramm",
+      "flag": "donnuCTF{0bfu5cated_1s_n0t_encrypted}",
+      "attachment": "./Training6/SP.cpython-36.pyc"
+    },
+{
+      "category": "Reverse",
+      "name": "Intricate",
+      "flag": "donnuCTF{F1nd_Me_1f_y0u_Can}",
+      "attachment": "./Training6/Intricate.zip"
+    },
+{
+      "category": "Reverse",
+      "name": "TurnRight",
+      "flag": "donnuCTF{Left_Right_Up_Down}",
+      "attachment": "./Training6/TurnRight.zip"
+    },
+{
+      "category": "Reverse",
+      "name": "Wrong",
+      "flag": "donnuCTF{REALM}",
+      "attachment": "./Training6/Wrong.zip"
+    },
+    {
+      "category": "Reverse",
+      "name": "medium0",
+      "flag": "donnuCTF{9f7334590e67acd1ff9bee7d2bdce7f6}",
+      "attachment": "./Training6/task0"
+    },
+    {
+      "category": "Reverse",
+      "name": "upx0",
+      "flag": "donnuCTF{h0w_u_c4n_unp4ck_177}",
+      "attachment": "./Training6/upx0u.exe"
+    }
+  ]
+}]
